@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <!--CPP-->
   <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <br/>
+  <br/><br/>
 
   ### DataBase
   <!--MySQL-->
