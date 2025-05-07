@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ChoA)
 
 
-<div>
+<div align="center">
   <!--Body-->
 
   ### Language
